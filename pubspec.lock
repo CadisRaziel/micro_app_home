@@ -88,6 +88,24 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  micro_commons_design_system:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: "58d2a066736b42ae4e1584bba496b7d4a4aa378e"
+      url: "https://github.com/CadisRaziel/micro_commons_design_system.git"
+    source: git
+    version: "0.0.1"
+  micro_core:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: "v1.0.0"
+      resolved-ref: "9eed9dd507c9764a289ca851ee730e0377429de0"
+      url: "https://github.com/CadisRaziel/micro_front.git"
+    source: git
+    version: "0.0.1"
   path:
     dependency: transitive
     description:
